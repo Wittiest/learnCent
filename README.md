@@ -15,11 +15,11 @@ Read more about recursive incentives in [nCent's litepaper](https://ncent.io/App
 
 ## Design
 
-<img src="./login.png"/>
+<img src="./images/login.png"/>
 
-<img src="./students.png"/>
+<img src="./images/students.png"/>
 
-<img src="./tutors.png"/>
+<img src="./images/tutors.png"/>
 
 ## Code
 Find our public code [here](https://github.com/Wittiest/ncent.github.io/blob/master/hackCent/August2018/learnCent).
