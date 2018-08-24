@@ -2,10 +2,10 @@
 Peer to peer tutoring powered by recursive incentives
 
 ## Live
-  <!-- Learn about [learnCent]() -->
+  Learn about [learnCent](https://wittiest.github.io/learnCent/)
 
 
-  ## Code
+## Code
   Find our public code [here](https://github.com/Wittiest/ncent.github.io/blob/master/hackCent/August2018/learnCent).
 
   ### Highlights
