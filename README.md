@@ -6,7 +6,7 @@ Peer to peer tutoring powered by recursive incentives
 
 
 ## Code
-  Find our public code [here](https://github.com/Wittiest/ncent.github.io/blob/master/hackCent/August2018/learnCent).
+  Find our public code [here](https://github.com/ncent/ncent.github.io/tree/master/hackCent/August2018/learnCent).
 
   ### Highlights
 
